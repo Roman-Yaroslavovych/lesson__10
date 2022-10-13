@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&family=Lato:wght@400;700;900&display=swap');
+
+.page {
+  font-family: 'Lato';
+}
+
+[class*="__container"] {
+  max-width: 1230px;
+  margin: 0 auto;
+  font-weight: 400;
+}
+
